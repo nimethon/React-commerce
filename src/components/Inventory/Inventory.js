@@ -7,12 +7,12 @@ const Inventory = () => {
     return (
         <div>
             <h1>Add Inventory to Sell more...</h1>
-            <h1> <li>srabon madari</li>
-            <li>maruf chutia</li>
-            <li>emon paglachud</li>
-            <li>kader maw-madari</li>
-            <li>sujon koromchod</li>
-            <li>rana dendi khor </li></h1>
+            <h1> <li>srabon mad***</li>
+            <li>maruf chu***</li>
+            <li>emon paglac***</li>
+            <li>kader maw-mad***</li>
+            <li>sujon koromc***</li>
+            <li>rana dendi-kh** </li></h1>
             <button onClick={handleAddInventory} >Add Inventor</button>
         </div>
     );
